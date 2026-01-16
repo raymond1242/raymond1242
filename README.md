@@ -64,11 +64,3 @@ Multi-store inventory system for tracking product entries, stock movements, and 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://raymond-portfolio.vercel.app)
 
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raymond1242&show_icons=true&theme=radical&hide=issues,contribs" alt="Raymond's Github Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymond1242&layout=compact&theme=radical" alt="Top Languages" />
-</div>
